@@ -1,0 +1,2 @@
+To create the code, I have assigned the 5 grades as g1, g2, g3, g4, g5, then created the average of them as AvgGrd.
+Used "if" and "else if" to identify the conditions of the output, then executed the code that printed "Please try more next time!" as the appropriate message for the average grade.
